@@ -1,9 +1,9 @@
 package com.wangwenjun.concurrency.chapter1;
 
 /***************************************
- * @author:Alex Wang
+ * @author:Alex Wang 
  * @Date:2017/2/14 QQ:532500648
- * QQ交流群:286081824
+ * QQ浜ゆ祦缇�:286081824
  ***************************************/
 public class TemplateMethod {
 
